@@ -1,0 +1,15 @@
+streamlit
+pandas
+openpyxl
+PyPDF2
+Pillow
+pdfplumber
+fpdf2
+pdf2image
+requests
+numpy
+rapidfuzz
+opencv-python-headless
+python-doctr
+torch
+pypdfium2
