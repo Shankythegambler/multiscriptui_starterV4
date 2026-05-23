@@ -34,7 +34,7 @@ st.markdown("""
 <style>
     /* Global App Background */
     .stApp {
-        background-color: #f4f7f6;
+        background-color: #0d1117;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
