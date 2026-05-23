@@ -76,12 +76,13 @@ st.markdown("""
         color:cornflowerblue;
     }
     .main-card {
-        background: #ffffff;
-        border: 1px solid #e1e8ed;
+        background: #307ac75e;
+        border: 1px solid #b6afbe;
         border-radius: 12px;
         padding: 25px;
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
         margin-bottom: 20px;
+        color:rosybrown;
     }
 
     /* Badges */
