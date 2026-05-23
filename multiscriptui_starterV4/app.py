@@ -67,12 +67,13 @@ st.markdown("""
 
     /* Main Content Cards */
     .hero-card {
-        background: linear-gradient(135deg, #ffffff 0%, #f0f4f8 100%);
-        border-left: 5px solid #2a5298;
-        border-radius: 12px;
-        padding: 25px;
+        background: linear-gradient(135deg, #d9ebd3 0%, #f0f4f8 100%);
+        border-left: 11px solid #616a79;
+        border-radius: 2rem;
+        padding: 1rem;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
         margin-bottom: 25px;
+        color:cornflowerblue;
     }
     .main-card {
         background: #ffffff;
